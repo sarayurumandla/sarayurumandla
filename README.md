@@ -10,6 +10,7 @@
 
 
 ### Skills 
+Trying out..
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,flask,mysql,git,github,linux)](https://skillicons.dev)
 
 Languages: Python · Java · C · JavaScript · SQL
