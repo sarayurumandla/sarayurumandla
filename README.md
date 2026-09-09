@@ -1,4 +1,4 @@
-## Sarayu Rumandla 
+# 𝒮𝒶𝓇𝒶𝓎𝓊 𝑅𝓊𝓂𝒶𝓃𝒹𝓁𝒶
 
 `Computer Science & AI @ University of Southampton`
 
