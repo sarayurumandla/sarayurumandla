@@ -10,7 +10,7 @@
 
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,js,html,css,flask,mysql,git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,flask,mysql,git,github,linux)](https://skillicons.dev)
 
 Languages: Python · Java · C · JavaScript · SQL
 
@@ -22,6 +22,14 @@ Tools & Databases: Git · GitHub · MySQL · DBeaver · Linux · Gemini API
 
 ### Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+Society Events booker: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+AI Sentiment Analysis: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
