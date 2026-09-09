@@ -21,7 +21,7 @@ AI / Data: Pandas · Scikit-learn · NLP · TF-IDF · Machine Learning
 
 Tools & Databases: Git · GitHub · MySQL · DBeaver · Linux · Gemini API
 
-### Projects
+### 𖡡 Projects
 
 Society Events booker: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
