@@ -19,7 +19,7 @@ Web: Flask · Streamlit · HTML · CSS
 
 AI / Data: Pandas · Scikit-learn · NLP · TF-IDF · Machine Learning
 
-Tools & Databases: Git · GitHub · MySQL · DBeaver · Linux · Gemini API
+Tools & Databases: Git · GitHub · MySQL · DBeaver · Linux 
 
 ### 𖡡 Projects
 
